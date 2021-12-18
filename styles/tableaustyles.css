@@ -1,0 +1,82 @@
+.header {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 400px;
+    z-index: 2;
+    background-image: url(../images/Northern\ Lights.jpg);
+    background-size: cover;
+    background-position: center;
+    font-size: 20px;
+    color: white;
+}
+.mainbody {
+    top:430px;
+    left:20px;
+    right: 20px;
+    bottom:50px;
+    font-weight: 30px;
+    text-decoration: underline;
+}
+.lefttopbody {
+    top: 420px;
+    left: 5px;
+    bottom: 150px;
+    padding-right: 25px;
+}
+.righttopbody {
+    top: 420px;
+    right: 5px;
+    bottom: 150px;
+    padding-left: 25px;
+
+}
+.leftbottombody {
+    top: 900px;
+    width: 500px;
+    left: 10px;
+    padding-right:505;
+}
+.rightbottombody {
+    top: 900px;
+    width: 500px;
+    right: 10px;
+    padding-left:505;
+}
+.footer {
+    bottom: 10px;
+    left:5px;
+    right: 5px;
+    height: 10px;
+    font-size: 15px;
+    color: #5e5c5c;
+    text-align: center;
+    position: fixed;
+}
+.subheader {
+    float: right;
+}
+.common {
+     position: absolute;
+ }
+ .nav {
+    font-weight : 20px;
+    font-family : 'Times New Roman', Times, serif;
+ }
+ .title {
+     padding-top:5px;
+     padding-left:10px;
+     font-weight:20px;
+ }
+ .captions {
+     font-weight:15px;
+     font-family:Arial, Helvetica, sans-serif;
+     background-color: none;
+ }
+ .body {
+     background-color: rgb(192, 168, 138);
+     font-family: 'Times New Roman', Times, serif;
+ }
+ .center {
+    text-align: center
+}
